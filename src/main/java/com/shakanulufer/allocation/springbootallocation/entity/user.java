@@ -1,11 +1,11 @@
 package com.shakanulufer.allocation.springbootallocation.entity;
 
-public class user {
+// public class user {
 
-  private long id;
+//   private long id;
 
-  private String name;
+//   private String name;
 
-  private String location;
+//   private String location;
 
-}
+// }
