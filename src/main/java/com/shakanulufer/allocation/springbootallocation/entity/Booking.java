@@ -7,7 +7,7 @@ import lombok.*;
 @Getter
 @Setter
 @RequiredArgsConstructor
-public class booking {
+public class Booking {
 
   private long id;
 

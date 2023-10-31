@@ -1,6 +1,6 @@
 package com.shakanulufer.allocation.springbootallocation.entity;
 
-// public class user {
+// public class User {
 
 //   private long id;
 

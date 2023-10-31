@@ -7,7 +7,7 @@ import lombok.*;
 @Getter
 @Setter
 @RequiredArgsConstructor
-public class product {
+public class Product {
 
   private long id;
 
