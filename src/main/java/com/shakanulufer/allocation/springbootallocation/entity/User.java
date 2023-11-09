@@ -1,11 +1,22 @@
 package com.shakanulufer.allocation.springbootallocation.entity;
 
-// public class User {
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import lombok.Data;
 
-//   private long id;
+@Entity
+@Table(name="user")
+@Data
+public class User {
 
-//   private String name;
+  @Id
+  private Long id;
 
-//   private String location;
+  private String name;
 
-// }
+  private String password;
+
+  private String location;
+
+}
